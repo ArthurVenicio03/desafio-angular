@@ -3,7 +3,7 @@
 ```markdown
 # Desafio Angular - Cadastro de Alunos
 
-Este projeto é um desafio Angular que consiste em um formulário para cadastrar alunos com nome e duas notas, calcular a média e determinar se o aluno está aprovado ou reprovado. Os dados são exibidos em uma tabela, onde é possível excluir registros.
+Este projeto é um desafio Angular do material START CAPGEMINI -> consiste em um formulário para cadastrar alunos com nome e duas notas, calcular a média e determinar se o aluno está aprovado ou reprovado. Os dados são exibidos em uma tabela, onde é possível excluir registros.
 
 ## Funcionalidades
 
