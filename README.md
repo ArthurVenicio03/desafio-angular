@@ -32,7 +32,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/desafio-angular.git
+   git clone https://github.com/Arthurvenicio03/desafio-angular.git
    ```
 
 2. Navegue até o diretório do projeto:
